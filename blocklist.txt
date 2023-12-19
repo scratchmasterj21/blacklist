@@ -1,6 +1,5 @@
-*://facebook.com/*
-*://twitter.com/*
-*://tiktok.com/*
-*://instagram.com/*
-https://www.facebook.com
-https://www.messenger.com
+*://*.facebook.com/*
+*://*.twitter.com/*
+*://*.tiktok.com/*
+*://*.instagram.com/*
+*://*.messenger.com/*
