@@ -146,6 +146,8 @@
 *://secondlife.com/*
 *://suika-game.app/*
 *://suikagame.com/*
+*://suika.gg/*
+*://suikagame.io/*
 *://poki.com​​/*
 *://game16.net​​/*
 *://onlinegame-pla.net​​/*
