@@ -146,7 +146,17 @@
 *://secondlife.com/*
 *://suika-game.app/*
 *://suikagame.com/*
-
+*://poki.com​​/*
+*://game16.net​​/*
+*://onlinegame-pla.net​​/*
+*://kashi-mo.com​​/*
+*://games.dmm.com​​/*
+*://game.boom-app.com​​/*
+*://gamewith.jp​​/*
+*://gemakomi-app.com​​/*
+*://sakura-ent.net​​/*
+*://plarium.com​​/*
+*://hitoikigame.com​​/*
 
 
 
